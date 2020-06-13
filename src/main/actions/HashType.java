@@ -1,4 +1,4 @@
-package main.java.actions;
+package src.main.actions;
 /**
  * The HashType class is an enum class for hash type
  *

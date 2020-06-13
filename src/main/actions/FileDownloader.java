@@ -1,4 +1,4 @@
-package main.java.actions;
+package src.main.actions;
 /**
  * The FileDownloader class is used to download the file from the browser
  *

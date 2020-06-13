@@ -12,6 +12,8 @@ package main.java.actions;
 import org.apache.commons.codec.digest.DigestUtils;
 import org.apache.log4j.Logger;
 
+import actions.HashType;
+
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;

@@ -1,4 +1,4 @@
-package main.java.actions;
+package src.main.actions;
 /**
  * The MethodType class is used to identify the method specified in the testcase 
  * excel and to perform the same action
