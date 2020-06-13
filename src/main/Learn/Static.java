@@ -25,12 +25,6 @@ public class StaticTest() {
 	System.out.println("testing conflicts");
 }
 
-public class StaticTest2() {
-	System.out.println("testing conflicts");
-}
-
-public class StaticTest3() {
-	System.out.println("testing conflicts");
 }
 
 public class StaticTest4() {
